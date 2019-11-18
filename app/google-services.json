@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "726407851583",
+    "firebase_url": "https://dummy-ocr.firebaseio.com",
+    "project_id": "dummy-ocr",
+    "storage_bucket": "dummy-ocr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726407851583:android:af03da0ad18c2fec",
+        "android_client_info": {
+          "package_name": "test.bagas.ocrapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726407851583-o8ljvqvrm3e355fm7e5j7nmam19viu8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzd0ktkh5E6w-xL6CMLW8mR1Fl7xO0jVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
